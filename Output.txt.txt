@@ -143,4 +143,8 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
     "ai_category": "budget"
   }
 ]
+
 PS C:\Users\trans\tests\work> 
+
+P.S: PS C:\Users\trans\tests\work> & C:/Users/trans/AppData/Local/Python/pythoncore-3.14-64/python.exe c:/Users/trans/tests/work/README.py
+✅ README.md generated successfully!
