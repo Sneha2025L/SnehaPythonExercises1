@@ -1,8 +1,8 @@
 # full_github_setup.py
 
-import os
-import subprocess
-import requests
+#import os
+#import subprocess
+#import requests
 
 # -----------------------------
 # 1️⃣ Generate README.md
@@ -124,3 +124,6 @@ First coding exercise in my career completed using ChatGPT guidance responsibly,
 
 print("✅ README.md generated successfully!")
 
+#P.S:
+#PS C:\Users\trans\tests\work> & C:/Users/trans/AppData/Local/Python/pythoncore-3.14-64/python.exe c:/Users/trans/tests/work/README.py
+#✅ README.md generated successfully!
